@@ -1,8 +1,8 @@
 id=susfs4ksu
-name=SUSFS-FOR-KERNELSU
-version=v1.5.2-R20
+name=SUSFS-FOR-KERNELSU(Little fork)
+version=v1.5.2-fork
 versionCode=105002020
-author=sidex15 & simonpunk
+author=sidex15 & simonpunk & bitcone91
 description=An addon root hiding service for KernelSU compiled with patched kernel source.
-updateJson=https://raw.githubusercontent.com/sidex15/ksu_module_susfs/v1.5.2+/update.json
+updateJson=https://raw.githubusercontent.com/zxck1l/ksu_module_susfs/v1.5.2+/update.json
 banner=banner.png

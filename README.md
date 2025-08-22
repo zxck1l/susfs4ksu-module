@@ -1,4 +1,5 @@
 # A KernelSU module for SUSFS patched kernel #
+# THIS IS A FORK!/ВНИМАНИИЕ,ЭТО ФОРК #
 
 This module installs a userspace helper tool called **ksu_susfs** and **sus_su** into /data/adb/ksu and provides a script to communicate with SUSFS kernel.
 This module provides root hiding for KernelSU on the kernel level.
